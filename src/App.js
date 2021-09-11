@@ -8,10 +8,10 @@ import Skills from './components/Skills';
 function App() {
   return (
     <div  className="text-gray-400 bg-gray-700 body-font">
-   <Navbar/>
+  <Navbar/>
       <About/> 
     <Projects/>
-     <Skills/>
+     <Skills/> 
       <Contact/>
       
      

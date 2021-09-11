@@ -1,19 +1,19 @@
 export const projects = [
     {
-      title: "React Reserve",
+      title: "Blog App",
       subtitle: "MERN Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "A Blog website to post your blog with backend",
+      image: "assets/blog.png",
+      link: "https://mernblogapps.herokuapp.com/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "React Chat",
+      subtitle: "Unichat",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+        "A simple chat app that works on react-chat-engine ",
+      image: "assets/chat.png",
+      link: "https://chatmessage.netlify.app",
     },
     {
       title: "DevChat",
@@ -35,5 +35,5 @@ export const projects = [
 
 
   export const skills = [
-      "javacript","java","c","Mern"
+      "MERN" ,"PYTHON" ,"C","JAVA"
   ]
