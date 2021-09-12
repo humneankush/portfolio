@@ -14,7 +14,9 @@ export default function About() {
           font-medium text-white">Hi, I'm Ankush.
           <br  className="hidden lg:inline-block"/>I love to build amazing apps.
           </h1>
-          <p className="mb-8 leading-relaxed">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque numquam quidem, corrupti minima fugit possimus molestiae quasi itaque earum quibusdam culpa ullam harum officiis necessitatibus impedit fugiat est assumenda excepturi!</p>
+          <p className="mb-8 leading-relaxed">
+To obtain a position that will enable me to use my logical, analysing and programming skills with good educational background and ability to work well with people, and an environment that lets me to learn and develop new skills. 
+</p>
       <div className="flex justify-center">
         <a href="#contact"
         className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
