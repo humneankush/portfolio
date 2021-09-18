@@ -35,5 +35,5 @@ export const projects = [
 
 
   export const skills = [
-      "MERN" ,"PYTHON" ,"C","JAVA"
+      "MERN" ,"PYTHON" ,"C","REST"
   ]
