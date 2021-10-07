@@ -18,8 +18,8 @@ export const projects = [
     subtitle: "React and Redux tool kit",
     description:
       "Application using which fetching crypto data from the api for the design i used ant design",
-    image: "assests/crypto.png",
-    link: "https://jovial-meninsky-cfc6a2.netlify.app/exchanges",
+    image: "assets/crypto.png",
+    link: "https://jovial-meninsky-cfc6a2.netlify.app/",
   },
   {
     title: "Epic Todo App",
